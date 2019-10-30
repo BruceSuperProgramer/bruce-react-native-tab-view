@@ -52,7 +52,7 @@
     "jest": "^21.2.1",
     "prettier": "^1.8.2",
     "react": "16.0.0",
-    "react-dom": "16.0.0",
+    "react-dom": "16.11.0",
     "react-native": "~0.50.4",
     "react-test-renderer": "16.2.0"
   },
